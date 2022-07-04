@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  width: 100%;
+  padding: 30px 20px;
+  background-color: #FF00FF;
+  display: flex;
+  
+}
+
+header > div {
+  background-color: #fff;
+  margin: 0 10px;
+  flex-basis: 140px;
+  height: 70px;
+}
